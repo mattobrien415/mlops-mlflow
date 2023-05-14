@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mattobrien/code/mlops-mlflow/mlruns/0/a4e98c1b9cf845b2a63f074a559bf932/artifacts
+end_time: 1683930814869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4e98c1b9cf845b2a63f074a559bf932
+run_name: unique-eel-36
+run_uuid: a4e98c1b9cf845b2a63f074a559bf932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683930812286
+status: 3
+tags: []
+user_id: mattobrien

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mattobrien/code/mlops-mlflow/mlruns/0/41e8c2bb6ea441d180b8a727202e7927/artifacts
+end_time: 1684089621546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41e8c2bb6ea441d180b8a727202e7927
+run_name: shivering-rat-399
+run_uuid: 41e8c2bb6ea441d180b8a727202e7927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684089621508
+status: 4
+tags: []
+user_id: mattobrien

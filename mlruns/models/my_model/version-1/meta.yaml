@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1684016331923
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1684016585817
+name: my_model
+run_id: 784ece968d45471d9c45b23a52e272cb
+run_link: ''
+source: file:///Users/mattobrien/code/mlops-mlflow/mlruns/0/784ece968d45471d9c45b23a52e272cb/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

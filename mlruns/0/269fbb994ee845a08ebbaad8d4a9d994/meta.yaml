@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mattobrien/code/mlops-mlflow/mlruns/0/269fbb994ee845a08ebbaad8d4a9d994/artifacts
+end_time: 1684086509813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 269fbb994ee845a08ebbaad8d4a9d994
+run_name: kindly-bird-636
+run_uuid: 269fbb994ee845a08ebbaad8d4a9d994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684086506752
+status: 3
+tags: []
+user_id: mattobrien
